@@ -2,6 +2,7 @@ Note: Originally, I put this repository on another Github account, which I have 
 
 # Bedwars Upgrades Display
 Displays team upgrades purchased in bedwars on the HUD.
+
 🎮Supported Version: Forge 1.8.9
 
 ## Features:
