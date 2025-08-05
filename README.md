@@ -12,5 +12,5 @@ Displays team upgrades purchased in bedwars on the HUD.
 ## Customization: 
 > Click "Upgrades Display" on the bottom right of the pause menu to access these features
 > 
-Toggle Mod - Lets you enable or disable the mod.
-Toggle Titles - Lets you enable or disable title prefixes for upgrade/trap names ("Upgrades", "Traps")
+- Toggle Mod - Lets you enable or disable the mod.
+- Toggle Titles - Lets you enable or disable title prefixes for upgrade/trap names ("Upgrades", "Traps")
