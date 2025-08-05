@@ -1,7 +1,5 @@
-> Originally, I put this repository on another Github account, which I have deleted. Unfortunately, this means that I do not have the source code for this anymore. The download is still available in releases.
-
 # Bedwars Upgrades Display
-Displays team upgrades purchased in bedwars on the HUD.
+Displays team upgrades & traps purchased in bedwars on the HUD.
 
 🎮Supported Version: **Forge 1.8.9**
 
@@ -14,3 +12,6 @@ Displays team upgrades purchased in bedwars on the HUD.
 > 
 - Toggle Mod - Lets you enable or disable the mod.
 - Toggle Titles - Lets you enable or disable title prefixes for upgrade/trap names ("Upgrades", "Traps")
+- Display Type - Lets you choose between 3 display options ("Both", "Upgrades", "Traps") so if you want one but not the other, you can do that!
+
+> Inspired from the Upgrades Display mod from Badlion Client.
