@@ -1,9 +1,9 @@
-Note: Originally, I put this repository on another Github account, which I have deleted. Unfortunately, this means that I do not have the source code for this anymore. The download is still available in releases.
+> Originally, I put this repository on another Github account, which I have deleted. Unfortunately, this means that I do not have the source code for this anymore. The download is still available in releases.
 
 # Bedwars Upgrades Display
 Displays team upgrades purchased in bedwars on the HUD.
 
-🎮Supported Version: Forge 1.8.9
+🎮Supported Version: **Forge 1.8.9**
 
 ## Features:
 - ✅ Supports all upgrades including tiered upgrades like forge upgrades. 
