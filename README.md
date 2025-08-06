@@ -14,4 +14,4 @@ Displays team upgrades & traps purchased in bedwars on the HUD.
 - Toggle Titles - Lets you enable or disable title prefixes for upgrade/trap names ("Upgrades", "Traps")
 - Display Type - Lets you choose between 3 display options ("Both", "Upgrades", "Traps") so if you want one but not the other, you can do that!
 
-> Inspired from the Upgrades Display mod from Badlion Client.
+> Inspired by the Upgrades Display mod from Badlion Client.
