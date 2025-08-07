@@ -1,0 +1,16 @@
+[
+{
+  "modid": "bedwarsupgradesdisplay",
+  "name": "Bedwars Upgrades Display",
+  "description": "Displays team upgrades & traps purchased in bedwars on the HUD.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/ztztmc/BedwarsUpgradesDisplay",
+  "updateUrl": "",
+  "authorList": ["ztzt"],
+  "credits": "Inspired by Badlion's Bedwars Upgrades Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
